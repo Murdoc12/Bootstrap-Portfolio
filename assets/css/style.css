@@ -1,0 +1,111 @@
+body
+{
+background: url('./../images/body.png');
+
+
+
+}
+
+h1 {
+padding-bottom: 20px;
+font-size: 30px;
+line-height: 49px;
+border-bottom: 3px solid gray;
+font-family: Georgia, Times, "Times New Roman", serif; 
+}
+
+
+.navbar-nav
+{
+padding-left: 960px;
+
+
+}
+
+.navbar-brand
+{
+background-color: #4aaaa5;
+padding-right: 3px;
+padding-left: 3px;
+padding-top:  10px;
+padding-bottom: 18px;
+font-size: 23px;
+font-weight: bold;
+font-family: Georgia, Times, "Times New Roman", serif; 
+margin-top:-3px;
+position: absolute;
+color: #fff;
+
+
+}
+
+
+
+.nav item active
+{
+float: right;
+
+}
+
+.container
+{
+max-width: 960px;
+height: 390px;
+clear: both;
+border: 1px solid ;
+padding: 30px;
+margin-top: 50px;
+margin-bottom: 100px;
+margin-right: 150px;
+margin-left: 190px;
+
+
+}
+
+.textbio
+{
+text-align: left;
+float: right;
+
+
+}
+
+#pic
+{
+float: left;
+}
+
+.navbar navbar-expand-lg navbar-light bg-light
+{
+padding-top:0px;
+color: #fff;
+
+
+}
+
+#footer
+{
+    
+    padding: 40px;
+    clear: both;
+    text-align: center;
+    height: 43px;
+    font-size: 25px;
+    background-color: black;
+    font-size: 15px;
+    border-top:5px solid #4aaaa5;
+    color: #fff;
+
+    
+    #navbarNav
+    {
+    
+    }
+
+   
+
+
+
+
+}
+
