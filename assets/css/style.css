@@ -55,7 +55,7 @@ clear: both;
 border: 1px solid ;
 padding: 30px;
 margin-top: 50px;
-margin-bottom: 100px;
+margin-bottom: 130px;
 margin-right: 150px;
 margin-left: 190px;
 
@@ -96,16 +96,114 @@ color: #fff;
     border-top:5px solid #4aaaa5;
     color: #fff;
 
-    
-    #navbarNav
-    {
-    
-    }
+}
 
+.img-thumbnail
+{
+width: 130px;
+height: 130px;
+}
+
+.container1
+{
+    max-width: 960px;
+    height: 505px;
+    clear: both;
+    border: 1px solid ;
+    padding: 30px;
+    margin-top: 50px;
+    margin-bottom: 130px;
+    margin-right: 150px;
+    margin-left: 190px;
+    
+}
+
+.jumbotron jumbotron-fluid
+{
+height:390px;
+}
+
+.portimage1
+{
+    width: 131px;
+    padding: 20px;
+    color: white;
+    background-color:#7a80b9;
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    margin-top: 90px;
+    
+}
+
+.portimage2
+{
+    width: 131px;
+    padding: 20px;
+    color: white;
+    background-color:#7a80b9;
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    margin-top: 90px;
+    margin-right: 230px;
+}
+
+.portimage3
+{
+    width: 131px;
+    padding: 20px;
+    color: white;
+    background-color:#7a80b9;
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    margin-top: 90px;
+    margin-right: 460px;
+}
+
+.portimage4
+{
+    width: 131px;
+    padding: 20px;
+    color: white;
+    background-color:#7a80b9;
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    margin-top: 66px;
    
-
-
-
 
 }
 
+.portimage5
+{
+    width: 131px;
+    padding: 20px;
+    color: white;
+    background-color:#7a80b9;
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    margin-top: 66px;
+    margin-right: 230px;
+}
+
+.portimage6
+{
+    width: 131px;
+    padding: 20px;
+    color: white;
+    background-color:#7a80b9;
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    margin-top: 66px;
+    margin-right: 460px;
+}
