@@ -118,6 +118,20 @@ height: 130px;
     
 }
 
+.container2
+{
+    max-width: 960px;
+    height: 550px;
+    clear: both;
+    border: 1px solid ;
+    padding: 30px;
+    margin-top: 50px;
+    margin-bottom: 130px;
+    margin-right: 150px;
+    margin-left: 190px;
+    
+}
+
 .jumbotron jumbotron-fluid
 {
 height:390px;
@@ -206,4 +220,9 @@ height:390px;
     font-family:'Georgia', Times, Times New Roman, serif;
     margin-top: 66px;
     margin-right: 460px;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
 }
